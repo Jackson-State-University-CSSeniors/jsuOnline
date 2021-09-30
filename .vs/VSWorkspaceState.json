@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hello",
+    "\\hello\\hello",
+    "\\hello\\hello\\hello"
+  ],
+  "SelectedNode": "\\hello\\hello\\hello\\hello.cpp",
+  "PreviewInSolutionExplorer": false
+}
